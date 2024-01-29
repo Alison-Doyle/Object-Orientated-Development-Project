@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aliso\\Documents\\GitHub\\Object-Orientated-Development-Project\\ProjectManager\\ProjectManager.csproj": {}
+    "C:\\Users\\aliso\\OneDrive\\Documents\\GitHub\\Object-Orientated-Development-Project\\ProjectManager\\ProjectManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aliso\\Documents\\GitHub\\Object-Orientated-Development-Project\\ProjectManager\\ProjectManager.csproj": {
+    "C:\\Users\\aliso\\OneDrive\\Documents\\GitHub\\Object-Orientated-Development-Project\\ProjectManager\\ProjectManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aliso\\Documents\\GitHub\\Object-Orientated-Development-Project\\ProjectManager\\ProjectManager.csproj",
+        "projectUniqueName": "C:\\Users\\aliso\\OneDrive\\Documents\\GitHub\\Object-Orientated-Development-Project\\ProjectManager\\ProjectManager.csproj",
         "projectName": "ProjectManager",
-        "projectPath": "C:\\Users\\aliso\\Documents\\GitHub\\Object-Orientated-Development-Project\\ProjectManager\\ProjectManager.csproj",
+        "projectPath": "C:\\Users\\aliso\\OneDrive\\Documents\\GitHub\\Object-Orientated-Development-Project\\ProjectManager\\ProjectManager.csproj",
         "packagesPath": "C:\\Users\\aliso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aliso\\Documents\\GitHub\\Object-Orientated-Development-Project\\ProjectManager\\obj\\",
+        "outputPath": "C:\\Users\\aliso\\OneDrive\\Documents\\GitHub\\Object-Orientated-Development-Project\\ProjectManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,7 +62,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
